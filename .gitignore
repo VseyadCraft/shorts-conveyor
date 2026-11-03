@@ -1,0 +1,27 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.bak
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Output videos and large media caches
+output/
+/tmp/conveyor_cache/
+*.mp4
+*.mov
+*.wav
+*.mp3
+*.ogv
+*.m4a
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
